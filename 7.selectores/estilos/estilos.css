@@ -1,0 +1,32 @@
+*{
+    background-color: cornflowerblue;
+}
+h1, address{
+    background-color: whitesmoke;
+}
+div{
+    border-color: khaki;
+    border-width: 25px;
+    border-style: groove;
+}
+
+
+p.párrafoazul{
+    background-color: darkorange;
+    color: whitesmoke;
+}
+p#fondoazul{
+    background-color: crimson;
+    color: whitesmoke;
+}
+div p{
+    color: whitesmoke;
+}
+div ol{
+    color: whitesmoke;
+}
+div.2{
+    border-color: khaki;
+    border-width: 25px;
+    border-style: groove;
+}

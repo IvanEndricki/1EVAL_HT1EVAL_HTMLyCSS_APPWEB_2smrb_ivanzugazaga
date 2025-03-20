@@ -16,7 +16,8 @@ body{
 }
 
 nav{
-    background-color: orange;
+    background-color: khaki;
+    margin-top: 15px;
 }
 
 .boton{
@@ -59,4 +60,23 @@ a:visited{
     color: black;
     font-weight: bold;
     font-style: italic;
+}
+
+aside{
+    background-color: khaki;
+    color: black;
+    float: left;
+    width: 300px;
+    height: 480px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.lista{
+    text-align: left;
+}
+
+main{
+    float: left;
+    margin-left: 40px;
 }

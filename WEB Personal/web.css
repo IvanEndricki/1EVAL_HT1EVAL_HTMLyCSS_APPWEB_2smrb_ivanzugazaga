@@ -177,9 +177,44 @@ footer{
 
 img.imagen{
     margin-top: 50px;
-    width: 200x;
+    width: 130px;
+    border: 3px black solid;
+    margin-left: 20px;
 }
 
-.nombre{
-    float: left;
+.section2{
+    float: right;
+    margin-left: 30px;
+    margin-top: 20px;
 }
+.nombre{
+    float: right;
+    text-align: left;
+}
+
+.estudiante{
+    text-decoration: none;
+    text-align: left;
+}
+
+.telefono{
+    list-style-image: url(fotos/Icono_telefono_compressed_resized\ \(3\).png);
+    text-align: left;
+}
+
+.correo{
+    list-style-image: url(fotos/95645_resized.png);
+    text-align: left;
+}
+.pais{
+    list-style-image: url(fotos/619_resized.png);
+    text-align: left;
+}
+
+.main2{
+    background-color: blanchedalmond;
+    border: 3px black solid;
+    margin-top: 40px;
+    color: black;
+}
+

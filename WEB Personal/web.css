@@ -179,7 +179,7 @@ footer{
 
 img.imagen{
     margin-top: 50px;
-    width: 70px;
+    width: 160px;
     border: 3px black solid;
     margin-left: 20px;
 }
@@ -216,10 +216,18 @@ img.imagen{
     border: 3px black solid;
     margin-top: 40px;
     color: black;
-    padding-right: 180px;
+    padding-right: 90px;
+    float: left;
 }
 
 .información{
     float: right;
     margin-top: 50px;
+}
+
+.perfil{
+    text-align: left;
+    margin-left: 30px;
+    text-decoration: underline;
+    margin-bottom: 15px;
 }
